@@ -6,5 +6,6 @@
 
 int main()
 {
-    void verify_hash_table();
+    verify_hash_table();
+    puts("Test Success.\n");
 }
